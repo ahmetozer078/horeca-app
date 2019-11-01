@@ -1,0 +1,22 @@
+body {
+background-image: url(bar-background.png);
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.knop {
+	margin-left: 600px;
+}
+#uitkomst{
+	color: white;
+
+}
+.moetkleurwit{
+	color: white;
+	margin-left: 600px;
+	margin-top: 120px;
+}
+.mooi{
+	color: #0652DD;
+	margin-left: 600px;
+	margin-top: 120px;
+}
